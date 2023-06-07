@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com alt="Profile badge" data-canonical-src="https://www.codewars.com/users/DawidKrupski/badges/large" style="max-width: 100%;">
+<img src="https://www.codewars.com/users/DawidKrupski/badges/large" alt="Profile badge" data-canonical-src="https://www.codewars.com/users/DawidKrupski/badges/large" style="max-width: 100%;">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dawid-krupski/) 
