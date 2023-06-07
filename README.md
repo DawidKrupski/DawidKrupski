@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/70e363fa005a11d7235db3cacde4b3ef373f5e22f8bc4b79583950618cd2100f/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f6875676d616e72697175652f6261646765732f6c61726765" alt="Profile badge" data-canonical-src="https://www.codewars.com/users/DawidKrupski/badges/large" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com alt="Profile badge" data-canonical-src="https://www.codewars.com/users/DawidKrupski/badges/large" style="max-width: 100%;">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dawid-krupski/) 
