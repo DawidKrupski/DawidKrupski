@@ -7,7 +7,8 @@
 # <img width="25" src="https://docs.codewars.com/logo.svg" style="margin-left: 10px;"> Codewars:
 <a href="https://www.codewars.com/users/DawidKrupski">
 <img src="https://www.codewars.com/users/DawidKrupski/badges/large" alt="Profile badge" data-canonical-src="https://www.codewars.com/users/DawidKrupski/badges/large" style="max-width: 100%;">
-</a >
+</a>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DawidKrupski&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DawidKrupski&theme=blue-green&hide_border=false)<br/>
