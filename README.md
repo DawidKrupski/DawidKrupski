@@ -7,17 +7,12 @@
 
 <div style="line-height: 5px;">
 Treść tekstu z odstępem 5px między liniami.
-1
-2
-3
-4
 </div>
-<div style="line-height: 10px;">
+<div style="line-height:40px;">
 Treść tekstu z odstępem 5px między liniami.
-1
-2
-3
-4
+</div>
+<div style="line-height: 5px;">
+Treść tekstu z odstępem 5px między liniami.
 </div>
 
 # 📊 GitHub Stats:
